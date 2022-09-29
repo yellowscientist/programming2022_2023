@@ -1,3 +1,4 @@
 ﻿  arrays_easy.c
 C:\Users\itmm-2213-a\source\repos\TerminalClassYakunin\ArraysActions_Easy\arrays_easy.c(8,15): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\itmm-2213-a\source\repos\TerminalClassYakunin\ArraysActions_Easy\arrays_easy.c(32,34): warning C4244: =: преобразование "double" в "int", возможна потеря данных
   ArraysActions_Easy.vcxproj -> C:\Users\itmm-2213-a\source\repos\TerminalClassYakunin\Debug\ArraysActions_Easy.exe
